@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/justluigie/justluigie.github.io.git/static/css/main.653c9023.css",
-    "main.js": "/justluigie/justluigie.github.io.git/static/js/main.2c629c90.js",
-    "static/js/937.84b3a6ba.chunk.js": "/justluigie/justluigie.github.io.git/static/js/937.84b3a6ba.chunk.js",
-    "index.html": "/justluigie/justluigie.github.io.git/index.html",
-    "main.653c9023.css.map": "/justluigie/justluigie.github.io.git/static/css/main.653c9023.css.map",
-    "main.2c629c90.js.map": "/justluigie/justluigie.github.io.git/static/js/main.2c629c90.js.map",
-    "937.84b3a6ba.chunk.js.map": "/justluigie/justluigie.github.io.git/static/js/937.84b3a6ba.chunk.js.map"
+    "main.css": "/static/css/main.653c9023.css",
+    "main.js": "/static/js/main.7ec327cc.js",
+    "static/js/937.84b3a6ba.chunk.js": "/static/js/937.84b3a6ba.chunk.js",
+    "index.html": "/index.html",
+    "main.653c9023.css.map": "/static/css/main.653c9023.css.map",
+    "main.7ec327cc.js.map": "/static/js/main.7ec327cc.js.map",
+    "937.84b3a6ba.chunk.js.map": "/static/js/937.84b3a6ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.653c9023.css",
-    "static/js/main.2c629c90.js"
+    "static/js/main.7ec327cc.js"
   ]
 }
