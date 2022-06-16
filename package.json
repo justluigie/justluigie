@@ -1,7 +1,7 @@
 {
   "name": "website",
   "version": "0.1.0",
-  "homepage": "https://justluigie.github.io/",
+  "homepage": "https://justluigie.github.io/justluigie",
   "private": true,
   "dependencies": {
     "bootstrap": "^5.1.3",
