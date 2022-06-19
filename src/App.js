@@ -1,7 +1,14 @@
 import React, { useCallback } from 'react';
 import Particles from "react-tsparticles";
 import { loadFull } from "tsparticles";
-import { useSpring, animated } from 'react-spring';
+import {
+    useTransition,
+    useSpring,
+    useChain,
+    config,
+    animated,
+    useSpringRef,
+  } from '@react-spring/web';
 import image from './pics/me.png'
 import './App.css';
 import particlesOptions from "./particles.json";
@@ -17,6 +24,7 @@ function App() {
     const particlesInit = useCallback(main => {
         loadFull(main);
     }, [])
+    
 
 
     
