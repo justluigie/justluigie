@@ -57,6 +57,13 @@
     z-index: -1;
 }
 
+#horizon{
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
 #top{
     padding-top: 5%;
 }
@@ -66,14 +73,17 @@
     height: auto;
     color: white; 
     font-family: AmongUs;
-    font-size: 70px;
+    font-size: 6vw;
     position: relative;
     text-align: left;
+    justify-content: center;
+    
+    
 }
 
 
 #imp{
-    font-size: 30px;
+    font-size: 1.2vw;
     text-align: left;
     font-family: AmongUs2;
 }
