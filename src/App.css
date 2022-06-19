@@ -13,6 +13,16 @@
     }
 }
 
+@font-face {
+    font-family: AmongUs;
+    src: url(font/in_your_face_joffrey-webfont.woff);
+    }
+
+@font-face {
+    font-family: AmongUs2;
+    src: url(font/vcr_osd_mono_1.001.woff);
+}
+
 .App-header {
     min-height: 100vh;
     display: flex;
@@ -45,4 +55,61 @@
     left: 0;
     top: 0;
     z-index: -1;
+}
+
+#top{
+    padding-top: 5%;
+}
+
+#top, #middle, #bottom{
+    padding-left: 60%;
+    height: auto;
+    color: white; 
+    font-family: AmongUs;
+    font-size: 70px;
+    position: relative;
+    text-align: left;
+}
+
+
+#imp{
+    font-size: 30px;
+    text-align: left;
+    font-family: AmongUs2;
+}
+
+.row {
+    display: flex;
+    padding-top: 5%;
+  }
+  
+.column {
+    flex: 50%;
+  }
+
+#picture{
+    
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+    
+}
+
+#myself{
+    height: 300px;
+    width: 50%;
+    padding-left: 5%;
+
+}
+
+.intro {
+    padding-top: 2%;
+    padding-left: 30%;
+    padding-right: 30%;
+    height: auto;
+    color: white; 
+    font-family: AmongUs2;
+    font-size: 15px;
+    position: relative;
+    text-align: left;
 }
