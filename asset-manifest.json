@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/justluigie/static/css/main.e7bee7db.css",
-    "main.js": "/justluigie/static/js/main.aada1334.js",
+    "main.css": "/justluigie/static/css/main.30feea65.css",
+    "main.js": "/justluigie/static/js/main.5fce4e8b.js",
     "static/js/937.84b3a6ba.chunk.js": "/justluigie/static/js/937.84b3a6ba.chunk.js",
     "static/media/me.png": "/justluigie/static/media/me.16eda8b7ab6ead7bea34.png",
+    "static/media/impostor.png": "/justluigie/static/media/impostor.a255a45ca74681752277.png",
     "static/media/in_your_face_joffrey-webfont.woff": "/justluigie/static/media/in_your_face_joffrey-webfont.68aa6981da0e03daf533.woff",
     "static/media/vcr_osd_mono_1.001.woff": "/justluigie/static/media/vcr_osd_mono_1.001.48cf7e960c4a0570eb56.woff",
     "index.html": "/justluigie/index.html",
-    "main.e7bee7db.css.map": "/justluigie/static/css/main.e7bee7db.css.map",
-    "main.aada1334.js.map": "/justluigie/static/js/main.aada1334.js.map",
+    "main.30feea65.css.map": "/justluigie/static/css/main.30feea65.css.map",
+    "main.5fce4e8b.js.map": "/justluigie/static/js/main.5fce4e8b.js.map",
     "937.84b3a6ba.chunk.js.map": "/justluigie/static/js/937.84b3a6ba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e7bee7db.css",
-    "static/js/main.aada1334.js"
+    "static/css/main.30feea65.css",
+    "static/js/main.5fce4e8b.js"
   ]
 }
