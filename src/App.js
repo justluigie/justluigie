@@ -1,24 +1,10 @@
 import React, { useCallback } from 'react';
 import Particles from "react-tsparticles";
 import { loadFull } from "tsparticles";
-import {
-    useTransition,
-    useSpring,
-    useChain,
-    config,
-    animated,
-    useSpringRef,
-  } from '@react-spring/web';
-import image from './pics/me.png'
+
 import './App.css';
 import particlesOptions from "./particles.json";
 import Toggle from './module/toggle';
-
-
-
-
-
-
 
 function App() {
     const particlesInit = useCallback(main => {
@@ -55,7 +41,7 @@ function App() {
             Interested in front-end and back-end technologies. Aiming to eventually have a significant mastery of it.
             </div>
           
-            
+            asdasd
         </div>
         
     );
