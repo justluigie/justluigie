@@ -41,7 +41,6 @@ function App() {
             Interested in front-end and back-end technologies. Aiming to eventually have a significant mastery of it.
             </div>
           
-            asdasd
         </div>
         
     );
