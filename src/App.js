@@ -5,7 +5,7 @@ import { useSpring, animated } from 'react-spring';
 import image from './pics/me.png'
 import './App.css';
 import particlesOptions from "./particles.json";
-
+import Toggle from './module/toggle';
 
 
 
@@ -36,7 +36,7 @@ function App() {
                     </div>
                 </div> 
                 <div class="column">
-                     <div id="myself"><img id="picture" src={image}/></div>
+                     <Toggle></Toggle>
                 </div>
             </div>
             <div id="short" class ="intro">
